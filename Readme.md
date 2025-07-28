@@ -63,4 +63,3 @@ A platform to browse, rate, and review movies with user authentication and comme
 ---
 
 *“Building tech for accessibility and security — one project at a time.”*
-
