@@ -15,16 +15,6 @@
 ### 📍 Location
 **Kochi, India** | **📧 arjunvaradiyil203@gmail.com** | **📱 +91 9946642065**
 
----
-
-## 🚀 Current Status
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunvaradiyil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunvaradiyil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ## 💼 Professional Experience
 
