@@ -47,13 +47,6 @@ A platform to browse, rate, and review movies with user authentication and comme
 
 ---
 
-## 📈 GitHub Stats
-
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjunvcode&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunvcode&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arjunvcode)
