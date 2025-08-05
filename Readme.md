@@ -1,5 +1,5 @@
 # Arjun V
-### Full Stack Developer |
+### Full Stack Developer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunvaradiyil)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunvardiyil)
@@ -127,4 +127,5 @@ B.Tech Project - An innovative mobile application designed to assist individuals
   
   <p><strong>Last updated: January 2025</strong></p>
 </div> 
+
 
