@@ -1,5 +1,5 @@
-# Arjun V
-### Full Stack Developer 
+# Arjun V  
+### 🚀 Full Stack Developer | Building Scalable Web & AI Systems  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunvaradiyil)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunvardiyil)
@@ -7,125 +7,104 @@
 
 ---
 
-## 🚀 Projects
+## 🧠 About Me
 
-### 1. 📅 **Event Scheduler Web Application**
+Full Stack Developer focused on building **scalable, high-performance web applications** and **AI-powered systems**.  
 
-**Project Description:**
-A comprehensive scheduling platform that allows users to create, manage, and schedule events with real-time conflict detection and resolution. The application provides an intuitive interface for event planning and management.
+Experienced in working on **content-heavy platforms and editorial systems**, including contributions to:
+- **Deshabhimani**
+- **LeftViews**
+- **Kochi Muziris Biennale websites**
 
-**Key Features:**
-- Real-time overlap prevention and conflict resolution
-- Robust user authentication system with role-based access control
-- Secure session management for protected data access
-- Interactive calendar interface
-- Event categorization and filtering
-
-**Tech Stack:**
-- **Frontend:** React.js, HTML5, CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT (JSON Web Tokens)
-- **APIs:** RESTful APIs
-- **Version Control:** Git, GitHub
+Currently exploring:
+- AI Agents & LangChain  
+- Headless CMS (Payload, API-first systems)  
+- Next.js & modern architectures  
 
 ---
 
-### 2. 🎬 **Movie Review and Rating Web Application**
+## 🚀 Featured Projects
 
-**Project Description:**
-A comprehensive movie review platform where users can browse movies, read reviews, and rate films. The application includes an admin panel for content management and user role management.
+### 📅 Event Scheduler Web Application
+A scalable scheduling platform with real-time conflict detection and role-based access.
 
-**Key Features:**
-- Advanced authentication mechanisms and granular role-based access control
-- Responsive design principles and real-time rating updates
-- Dynamic user interface enhancements for superior user experience
-- Movie search and filtering functionality
-- User review system with moderation
+**Highlights:**
+- Real-time overlap detection  
+- Role-based authentication  
+- Interactive calendar UI  
 
-**Tech Stack:**
-- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT (JSON Web Tokens)
-- **APIs:** RESTful APIs
-- **Styling:** Tailwind CSS
-- **Version Control:** Git, GitHub
+**Tech:** React.js, Node.js, Express, MongoDB, JWT  
 
 ---
 
-### 3. 🤟 **Personal Assistant for Deaf and Mute**
+### 🎬 Movie Review & Rating Platform
+A full-featured content platform with admin controls and user-driven engagement.
 
-**Project Description:**
-B.Tech Project - An innovative mobile application designed to assist individuals with hearing and speech impairments. The app uses advanced gesture recognition and text-to-speech technology to facilitate communication.
+**Highlights:**
+- Review & rating system  
+- Admin moderation panel  
+- Advanced filtering & search  
 
-**Key Features:**
-- Advanced real-time gesture recognition algorithms
-- Sophisticated text-to-speech conversion features
-- Comprehensive communication support
-- Mobile-responsive interface
-- Offline functionality for basic features
-
-**Tech Stack:**
-- **Mobile Framework:** Flutter
-- **Computer Vision:** MediaPipe
-- **Programming Language:** Python
-- **Machine Learning:** TensorFlow
-- **AI/ML:** Machine Learning, Computer Vision, Natural Language Processing
-- **Development Tools:** VS Code, Git, GitHub
+**Tech:** React.js, Tailwind CSS, Node.js, MongoDB  
 
 ---
 
-## 🛠️ Technology Stack Overview
+### 🤟 AI Assistant for Deaf & Mute
+AI-powered mobile app enabling communication via gesture recognition and speech synthesis.
 
-### **Frontend Technologies**
-- React.js
-- Next.js
-- Tailwind CSS
-- Redux
-- Material-UI
-- HTML5
-- CSS3
+**Highlights:**
+- Real-time gesture recognition  
+- Text-to-speech conversion  
+- Offline support  
 
-### **Backend Technologies**
-- Node.js
-- Express.js
-- RESTful APIs
-- JWT Authentication
-
-### **Databases**
-- MongoDB
-- MySQL
-- PostgreSQL
-
-### **Programming Languages**
-- JavaScript
-- Python
-- Java
-- TypeScript
-
-### **Tools & Platforms**
-- Git
-- GitHub
-- VS Code
-- Docker
-- AWS
+**Tech:** Flutter, MediaPipe, TensorFlow, Python  
 
 ---
 
-## 📧 Contact
+## ⚡ What I’m Building Now
 
-- **Email:** arjunvaradiyil203@gmail.com
-- **LinkedIn:** [arjunvaradiyil](https://linkedin.com/in/arjunvaradiyil)
-- **GitHub:** [arjunvardiyil](https://github.com/arjunvardiyil)
-- **Location:** Kochi, India
+- AI-powered content systems using **LangChain + Agents**  
+- Dynamic CMS-driven platforms  
+- Real-time utility web apps  
 
 ---
 
+## 🛠️ Tech Stack
+
+**Frontend:**  
+React.js • Next.js • Tailwind CSS • Redux • HTML • CSS  
+
+**Backend:**  
+Node.js • Express.js • REST APIs • JWT Auth  
+
+**Databases:**  
+MongoDB • PostgreSQL • MySQL  
+
+**Languages:**  
+JavaScript • TypeScript • Python • Java  
+
+**Tools:**  
+Git • GitHub • Docker • AWS • VS Code  
+
+---
+
+## 📍 Focus Areas
+
+- Editorial & content-heavy platforms  
+- Headless CMS architecture  
+- Scalable backend systems  
+- AI-integrated applications  
+
+---
+
+## 📫 Contact
+
+- Email: arjunvaradiyil203@gmail.com  
+- LinkedIn: https://linkedin.com/in/arjunvaradiyil  
+- GitHub: https://github.com/arjunvardiyil  
+- Location: Kochi, India  
+
+---
 <div align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
-  
-  <p><strong>Last updated: January 2025</strong></p>
-</div> 
-
-
+  <em>"Build fast. Scale smart. Ship real products."</em>
+</div>
